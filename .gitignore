@@ -1,0 +1,6 @@
+.vscode/*
+test/**
+train/**
+output/**
+testcases/**
+exec/**
